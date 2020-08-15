@@ -16,7 +16,7 @@ The self-executable can be found in the build folder; no installation necessary.
 
 Another addition I have implemented is a helper window that will come up with the serial terminal once a connection has been established. The character and line delays can also be changed from here on the fly, but it isn't possible to permanently save the values from the sub-window like on the options settings prior to connection. It is possible to close the sub-window if it gets in the way without closing Putty. The last settings you entered into the sub-window will be retained when you close it. 
 
-I have included a couple screenshots in the docs folder showing where the delay settings have been added. 
+I have included a couple screenshots in the [docs](https://github.com/Jeremy-Ruth/Putty_With_Serial_Delay/tree/master/docs) folder showing where the delay settings have been added. 
 
 ## Testing
 
